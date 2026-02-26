@@ -9,7 +9,7 @@ Get the installer from [Releases](https://github.com/bluevacation/10MBy/releases
 ## Install
 
 1. Run `10MBy_Setup.exe`
-2. Done lol
+2. Done.
 Alternatively, you can build it from source:
 ```bash
 pip install pyinstaller pillow tkinterdnd2
