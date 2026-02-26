@@ -1,6 +1,6 @@
 # 10MBy
 
-Compress videos and audio to fit under just 10MB.
+Easily compress videos and audio to fit under just 10MB from the context menu in Windows.
 
 ## Download
 
