@@ -2,6 +2,8 @@
 
 Easily compress videos and audio to fit under just 10MB from the context menu in Windows.
 
+> ⚠️ This project is currently in alpha. Please expect nothing to work properly. I don't know how to use a computer.
+
 ## Install
 Download the latest setup file from [releases](https://github.com/bluevacation/10MBy/releases).
 1. Install ffmpeg if you don't have it already:
