@@ -24,6 +24,7 @@ Executable will be in: `dist/10MBy.exe`
 ## Usage
 
 - **Quick compress**: Right-click any video/audio file → "Compress to 10 MB"
+- The compressed file will be automatically copied to your clipboard. The compressed file will be in the same directory as the original file.
 
 ## Supported Formats
 
