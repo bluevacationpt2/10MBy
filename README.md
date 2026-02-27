@@ -7,9 +7,13 @@ Easily compress videos and audio to fit under just 10MB from the context menu in
 Get the installer from [Releases](https://github.com/bluevacation/10MBy/releases)
 
 ## Install
+1. Install ffmpeg if you don't have it already:
+```bash
+winget install --id=Gyan.FFmpeg -e
+winget install --id=Gyan.FFmpeg.Essentials -e
+```
+2. Run `10MBy_Setup.exe`
 
-1. Run `10MBy_Setup.exe`
-2. Done.
 Alternatively, you can build it from source:
 ```bash
 pip install pyinstaller pillow tkinterdnd2
