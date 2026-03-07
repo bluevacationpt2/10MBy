@@ -2,9 +2,7 @@
 
 Easily compress videos and audio to fit under just 10MB from the context menu in Windows.
 
-> ⚠️ This project is currently in alpha. Expect things to be broken.
-
-> The current compression method is somewhat slow. A faster rewritten version will be released in 1.0
+> ⚠️ This project is currently in alpha. Please report any issues.
 
 ## Install
 Download the latest setup file from [releases](https://github.com/bluevacation/10MBy/releases).
