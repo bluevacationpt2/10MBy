@@ -33,5 +33,5 @@ Audio: MP3, WAV, FLAC, AAC, OGG, M4A, WMA
 ## Requirements
 
 - Windows 10/11
-- [FFmpeg](https://ffmpeg.org/) in PATH (app warns if not found)
+- [FFmpeg]([https://ffmpeg.org/](https://winstall.app/apps/Gyan.FFmpeg)) in PATH (app warns if not found)
 
